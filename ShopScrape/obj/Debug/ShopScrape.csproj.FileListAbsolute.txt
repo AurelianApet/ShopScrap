@@ -1,0 +1,9 @@
+E:\1_KCS_WORK\C#\Scrape\ShopScrape\ShopScrape\bin\Debug\ShopScrape.exe.config
+E:\1_KCS_WORK\C#\Scrape\ShopScrape\ShopScrape\bin\Debug\ShopScrape.exe
+E:\1_KCS_WORK\C#\Scrape\ShopScrape\ShopScrape\bin\Debug\ShopScrape.pdb
+E:\1_KCS_WORK\C#\Scrape\ShopScrape\ShopScrape\obj\Debug\ShopScrape.Form1.resources
+E:\1_KCS_WORK\C#\Scrape\ShopScrape\ShopScrape\obj\Debug\ShopScrape.Properties.Resources.resources
+E:\1_KCS_WORK\C#\Scrape\ShopScrape\ShopScrape\obj\Debug\ShopScrape.csproj.GenerateResource.Cache
+E:\1_KCS_WORK\C#\Scrape\ShopScrape\ShopScrape\obj\Debug\ShopScrape.exe
+E:\1_KCS_WORK\C#\Scrape\ShopScrape\ShopScrape\obj\Debug\ShopScrape.pdb
+E:\1_KCS_WORK\C#\Scrape\ShopScrape\ShopScrape\obj\Debug\ShopScrape.csprojResolveAssemblyReference.cache
